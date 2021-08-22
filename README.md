@@ -21,11 +21,17 @@ Languages and Tools:
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg" />
 <img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />
-<img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/markdown.svg" />
-<img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />
-<img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
+<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
 
 <br/><br/>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AndreWerthwein&show_icons=true&hide_border=true" />
+
+</details>
 
 Connect with me:
 
