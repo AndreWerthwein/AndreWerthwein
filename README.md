@@ -32,7 +32,7 @@ Languages and Tools:
 
  <img align="left" alt="My moste used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreWerthwein&langs_count=8"/>
 
-<br/><br/>
+<br/><br/><br/>
 
 Connect with me:
 
@@ -42,7 +42,7 @@ Connect with me:
 [<img align="left" alt="André-Pascal Werthwein | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][behance]
 [<img align="left" alt="André-Pascal Werthwein | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />][dribbble]
 
-<br/><br/>
+<br/><br/><br/>
 
 -  [Design & Development Portfolio][website]
 -  [fat&bull;flink (Interactive Sitemap)][fat-link]
