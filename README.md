@@ -7,6 +7,22 @@
 - 🥅 2021: Getting into Angular and MongoDB.
 - ⚡ I love executing ideas with Code.
 
+<br/><br/>
+
+Connect with me:
+
+[<img align="left" alt="André-Pascal Werthwein | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linked-in]
+[<img align="left" alt="André-Pascal Werthwein | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+[<img align="left" alt="André-Pascal Werthwein | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />][code-pen]
+[<img align="left" alt="André-Pascal Werthwein | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][behance]
+[<img align="left" alt="André-Pascal Werthwein | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />][dribbble]
+
+<br/><br/>
+
+-  [Design & Development Portfolio][website]
+-  [fat&bull;flink (Interactive Sitemap)][fat-link]
+-  [Werthwein Photography][photography]
+
 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
@@ -31,22 +47,6 @@ Languages and Tools:
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndreWerthwein&show_icons=true&count_private=true" />
 
  <img align="left" alt="My moste used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreWerthwein&langs_count=8"/>
-
-<br/><br/><br/>
-
-Connect with me:
-
-[<img align="left" alt="André-Pascal Werthwein | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linked-in]
-[<img align="left" alt="André-Pascal Werthwein | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img align="left" alt="André-Pascal Werthwein | CodePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />][code-pen]
-[<img align="left" alt="André-Pascal Werthwein | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />][behance]
-[<img align="left" alt="André-Pascal Werthwein | Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />][dribbble]
-
-<br/><br/><br/>
-
--  [Design & Development Portfolio][website]
--  [fat&bull;flink (Interactive Sitemap)][fat-link]
--  [Werthwein Photography][photography]
 
 [website]: https://www.andrewerthwein.de
 [fat-link]: http://fat.link.andrewerthwein.de
