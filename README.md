@@ -23,7 +23,7 @@ Connect with me:
 -  [fat&bull;flink (Interactive Sitemap)][fat-link]
 -  [Werthwein Photography][photography]
 
-<br/><br/>
+<br/>
 
 Languages and Tools:
 
