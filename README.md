@@ -26,12 +26,13 @@ Languages and Tools:
 
 <br/><br/>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndreWerthwein&show_icons=true&hide_border=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndreWerthwein&show_icons=true&hide_border=true&count_private=true" />
 
-</details>
+ <img align="left" alt="My moste used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreWerthwein&langs_count=8"/>
+
+<br/><br/>
 
 Connect with me:
 
