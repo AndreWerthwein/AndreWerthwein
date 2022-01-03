@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I love to collaborate with other creators.
-- 🥅 2021: Getting into Angular and MongoDB.
+- 🥅 2022: Getting _deeper_ into Angular and MongoDB.
 - ⚡ I love executing ideas with Code.
 
 <br/>
