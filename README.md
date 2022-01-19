@@ -48,7 +48,7 @@ Languages and Tools:
 
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndreWerthwein&show_icons=true&count_private=true" />
 
- <img align="left" alt="My moste used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreWerthwein&langs_count=8"/>
+ <img align="left" alt="My moste used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreWerthwein&langs_count=8&count_private=true"/>
 
 [website]: https://www.andrewerthwein.de
 [fat-link]: http://fat.link.andrewerthwein.de
